@@ -4,6 +4,12 @@
     <TargetFramework>net7.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
+    <ApplicationInsightsResourceId>/subscriptions/bfa5a4b9-6992-4ebd-a737-d73392fe7dba/resourceGroups/alexeirg/providers/microsoft.insights/components/alexeiazurewebapp</ApplicationInsightsResourceId>
+    <UserSecretsId>41c4b52f-a77d-4dd1-a966-ba3e213f12fa</UserSecretsId>
   </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.ApplicationInsights.AspNetCore" Version="2.21.0" />
+  </ItemGroup>
 
 </Project>
