@@ -1,3 +1,6 @@
+using AzureWebApp.Data;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -6,6 +9,9 @@ builder.Services.AddApplicationInsightsTelemetry(new Microsoft.ApplicationInsigh
 {
     ConnectionString = builder.Configuration["APPLICATIONINSIGHTS_CONNECTION_STRING"]
 });
+
+string ConnectionString = builder.Configuration.GetConnectionString("DefaultConnection")!;
+builder.Services.AddDbContext<AppDbContext>(options => options.UseSqlServer(ConnectionString));
 
 var app = builder.Build();
 
