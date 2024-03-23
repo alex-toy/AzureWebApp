@@ -3,20 +3,44 @@
   "WorkspaceRootPath": "C:\\source\\cSharpAzure\\AzureWebApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{78035F56-92B7-44AD-A7EE-18189C570264}|AzureWebApp.csproj|c:\\source\\csharpazure\\azurewebapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{78035F56-92B7-44AD-A7EE-18189C570264}|AzureWebApp.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{78035F56-92B7-44AD-A7EE-18189C570264}|AzureWebApp.csproj|c:\\source\\csharpazure\\azurewebapp\\pages\\persons\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78035F56-92B7-44AD-A7EE-18189C570264}|AzureWebApp.csproj|solutionrelative:pages\\persons\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78035F56-92B7-44AD-A7EE-18189C570264}|AzureWebApp.csproj|c:\\source\\csharpazure\\azurewebapp\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78035F56-92B7-44AD-A7EE-18189C570264}|AzureWebApp.csproj|solutionrelative:pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{78035F56-92B7-44AD-A7EE-18189C570264}|AzureWebApp.csproj|c:\\source\\csharpazure\\azurewebapp\\pages\\persons\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78035F56-92B7-44AD-A7EE-18189C570264}|AzureWebApp.csproj|solutionrelative:pages\\persons\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78035F56-92B7-44AD-A7EE-18189C570264}|AzureWebApp.csproj|c:\\source\\csharpazure\\azurewebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{78035F56-92B7-44AD-A7EE-18189C570264}|AzureWebApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{78035F56-92B7-44AD-A7EE-18189C570264}|AzureWebApp.csproj|c:\\source\\csharpazure\\azurewebapp\\pages\\persons\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78035F56-92B7-44AD-A7EE-18189C570264}|AzureWebApp.csproj|solutionrelative:pages\\persons\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78035F56-92B7-44AD-A7EE-18189C570264}|AzureWebApp.csproj|c:\\source\\csharpazure\\azurewebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78035F56-92B7-44AD-A7EE-18189C570264}|AzureWebApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{78035F56-92B7-44AD-A7EE-18189C570264}|AzureWebApp.csproj|c:\\source\\csharpazure\\azurewebapp\\pages\\persons\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78035F56-92B7-44AD-A7EE-18189C570264}|AzureWebApp.csproj|solutionrelative:pages\\persons\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78035F56-92B7-44AD-A7EE-18189C570264}|AzureWebApp.csproj|c:\\source\\csharpazure\\azurewebapp\\pages\\persons\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78035F56-92B7-44AD-A7EE-18189C570264}|AzureWebApp.csproj|solutionrelative:pages\\persons\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78035F56-92B7-44AD-A7EE-18189C570264}|AzureWebApp.csproj|c:\\source\\csharpazure\\azurewebapp\\pages\\persons\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78035F56-92B7-44AD-A7EE-18189C570264}|AzureWebApp.csproj|solutionrelative:pages\\persons\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78035F56-92B7-44AD-A7EE-18189C570264}|AzureWebApp.csproj|c:\\source\\csharpazure\\azurewebapp\\pages\\persons\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78035F56-92B7-44AD-A7EE-18189C570264}|AzureWebApp.csproj|solutionrelative:pages\\persons\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78035F56-92B7-44AD-A7EE-18189C570264}|AzureWebApp.csproj|c:\\source\\csharpazure\\azurewebapp\\pages\\persons\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78035F56-92B7-44AD-A7EE-18189C570264}|AzureWebApp.csproj|solutionrelative:pages\\persons\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78035F56-92B7-44AD-A7EE-18189C570264}|AzureWebApp.csproj|c:\\source\\csharpazure\\azurewebapp\\pages\\persons\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78035F56-92B7-44AD-A7EE-18189C570264}|AzureWebApp.csproj|solutionrelative:pages\\persons\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78035F56-92B7-44AD-A7EE-18189C570264}|AzureWebApp.csproj|c:\\source\\csharpazure\\azurewebapp\\pages\\persons\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78035F56-92B7-44AD-A7EE-18189C570264}|AzureWebApp.csproj|solutionrelative:pages\\persons\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,54 +82,132 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "C:\\source\\cSharpAzure\\AzureWebApp\\Pages\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Index.cshtml.cs",
-              "ToolTip": "C:\\source\\cSharpAzure\\AzureWebApp\\Pages\\Index.cshtml.cs",
-              "RelativeToolTip": "Pages\\Index.cshtml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-22T13:37:56.043Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\source\\cSharpAzure\\AzureWebApp\\Pages\\Index.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
-              "ToolTip": "C:\\source\\cSharpAzure\\AzureWebApp\\Pages\\Index.cshtml",
-              "RelativeToolTip": "Pages\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-22T13:37:41.371Z",
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\source\\cSharpAzure\\AzureWebApp\\Pages\\Persons\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Persons\\Index.cshtml.cs",
+              "ToolTip": "C:\\source\\cSharpAzure\\AzureWebApp\\Pages\\Persons\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Persons\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T09:09:59.316Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\source\\cSharpAzure\\AzureWebApp\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\source\\cSharpAzure\\AzureWebApp\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-22T13:23:54.6Z",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\source\\cSharpAzure\\AzureWebApp\\Pages\\Persons\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Persons\\Index.cshtml",
+              "ToolTip": "C:\\source\\cSharpAzure\\AzureWebApp\\Pages\\Persons\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Persons\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-23T09:09:59.225Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\source\\cSharpAzure\\AzureWebApp\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\source\\cSharpAzure\\AzureWebApp\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-22T13:23:32.204Z",
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\source\\cSharpAzure\\AzureWebApp\\Pages\\Persons\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Persons\\Delete.cshtml.cs",
+              "ToolTip": "C:\\source\\cSharpAzure\\AzureWebApp\\Pages\\Persons\\Delete.cshtml.cs",
+              "RelativeToolTip": "Pages\\Persons\\Delete.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T09:09:59.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\source\\cSharpAzure\\AzureWebApp\\Pages\\Persons\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Persons\\Delete.cshtml",
+              "ToolTip": "C:\\source\\cSharpAzure\\AzureWebApp\\Pages\\Persons\\Delete.cshtml",
+              "RelativeToolTip": "Pages\\Persons\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-23T09:09:59.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\source\\cSharpAzure\\AzureWebApp\\Pages\\Persons\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Persons\\Details.cshtml.cs",
+              "ToolTip": "C:\\source\\cSharpAzure\\AzureWebApp\\Pages\\Persons\\Details.cshtml.cs",
+              "RelativeToolTip": "Pages\\Persons\\Details.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T09:09:58.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\source\\cSharpAzure\\AzureWebApp\\Pages\\Persons\\Details.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Persons\\Details.cshtml",
+              "ToolTip": "C:\\source\\cSharpAzure\\AzureWebApp\\Pages\\Persons\\Details.cshtml",
+              "RelativeToolTip": "Pages\\Persons\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-23T09:09:58.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\source\\cSharpAzure\\AzureWebApp\\Pages\\Persons\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Persons\\Edit.cshtml.cs",
+              "ToolTip": "C:\\source\\cSharpAzure\\AzureWebApp\\Pages\\Persons\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\Persons\\Edit.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T09:09:58.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\source\\cSharpAzure\\AzureWebApp\\Pages\\Persons\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Persons\\Edit.cshtml",
+              "ToolTip": "C:\\source\\cSharpAzure\\AzureWebApp\\Pages\\Persons\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\Persons\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-23T09:09:58.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\source\\cSharpAzure\\AzureWebApp\\Pages\\Persons\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Persons\\Create.cshtml.cs",
+              "ToolTip": "C:\\source\\cSharpAzure\\AzureWebApp\\Pages\\Persons\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\Persons\\Create.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T09:09:58.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\source\\cSharpAzure\\AzureWebApp\\Pages\\Persons\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Persons\\Create.cshtml",
+              "ToolTip": "C:\\source\\cSharpAzure\\AzureWebApp\\Pages\\Persons\\Create.cshtml",
+              "RelativeToolTip": "Pages\\Persons\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-23T09:09:58.264Z",
               "EditorCaption": ""
             }
           ]
